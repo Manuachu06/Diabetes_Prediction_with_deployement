@@ -65,4 +65,3 @@ This project is licensed under the [License Name] License - see the [LICENSE](LI
 
 ```
 
-Replace `[insert ...]` with the specific details relevant to your project. This README provides an overview of your Diabetic Prediction application, instructions for setup, and guidance for contributions and licensing. It's important to ensure that your project adheres to ethical and legal considerations, especially when dealing with health-related predictions.
