@@ -1,4 +1,4 @@
-## Diabetes Prediction 
+
 
 ```markdown
 # Diabetic Prediction with Streamlit
